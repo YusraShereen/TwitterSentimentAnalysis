@@ -48,7 +48,7 @@ This repository contains a Google Colab notebook for training and evaluating a *
 ## How to Run Locally
 
 ```bash
-git clone [<repo_url>](https://github.com/YusraShereen/TwitterSentimentAnalysis.git)
+git clone [TwitterSentimentAnalysis](https://github.com/YusraShereen/TwitterSentimentAnalysis.git)
 cd TwitterSentimentAnalysis
 pip install pandas numpy scikit-learn matplotlib seaborn reportlab nbformat tensorflow nltk
 ```
