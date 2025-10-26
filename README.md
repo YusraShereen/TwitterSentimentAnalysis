@@ -49,7 +49,7 @@ This repository contains a Google Colab notebook for training and evaluating a *
 
 ```bash
 git clone <repo_url>
-cd SentimentAnalysis
+cd TwitterSentimentAnalysis
 pip install pandas numpy scikit-learn matplotlib seaborn reportlab nbformat tensorflow nltk
 ```
 
